@@ -1,4 +1,4 @@
 <?php
 
-echo "INI FAIL PERGERAKAN";
+echo "Ini fail pergerakan";
 ?>
